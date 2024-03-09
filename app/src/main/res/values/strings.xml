@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fav Book</string>
+    <string name="book_name">As you like it</string>
+    <string name="book_author_name">Shakspear</string>
+    <string name="page_count">page count</string>
+    <string name="button_delete_book_forever">button delete book forever</string>
+    <string name="share_book_to_anyone">Share book to anyone</string>
+    <string name="update_book">Update book here</string>
+    <string name="add_book_here">Add book here</string>
+    <string name="book_name_textField">Book Name</string>
+    <string name="book_author">Book Author</string>
+    <string name="book_pages">Book Pages</string>
+    <string name="add_book">Add Book</string>
+    <string name="update_book_btn">Update Book</string>
+    <string name="add_your_all_fav">Add your all favourite books in \n Library</string>
+</resources>
